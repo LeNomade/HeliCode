@@ -8,6 +8,7 @@ import sys
 from pygame.locals import *
 
 #Comment 1
+#Comment testing 2
 black = (0,0,0)
 white =(255,255,255)
 
